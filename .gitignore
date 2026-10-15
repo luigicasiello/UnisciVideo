@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyo
+build/
+dist/
+bin/
+certificates/
+.tmp-*/
+.pytest_cache/
+.coverage
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
